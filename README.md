@@ -2,9 +2,9 @@
 
 ## Links
 
-- [Live App Here!](https://mj301296.github.io/Etch-A-Sketch/)
+- [Live App Here!](https://mj301296.github.io/Sign-Up-Form/)
 
-- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
+- [Link to the Assignment](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)
 
 ## Built with
 
